@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269479924554",
+    "project_id": "gso43-irgy",
+    "storage_bucket": "gso43-irgy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269479924554:android:8cf4f441453b24e77467b3",
+        "android_client_info": {
+          "package_name": "com.example.firebase_irgy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf1U_E0DbQPp0CQZWaSGMsPAj_P3gi74k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
